@@ -1,0 +1,18 @@
+.text{
+    padding: 8px 12px;
+   position: absolute;
+   bottom: 70px;
+   right:100px;
+   width: 100%;
+     
+ }
+     .card {
+     height: 180px;
+     width: 500px;
+     box-shadow: 1px 2px 3px 4px rgb(12 12 12 / 20%);
+     padding: 24px;
+     margin: 60px;
+   }
+   .carousel{
+    margin-top:5px;
+   }

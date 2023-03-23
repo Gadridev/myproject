@@ -1,0 +1,55 @@
+.cards-1{
+    border: solid 1px #d1d7dc;
+    margin: 2.2rem;
+    padding: 3.2rem;
+    
+  }
+  .card-1{
+    border: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .text-gen{
+    margin-left: 10px;
+  }
+  #btn-lien{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 400;
+  }
+  .item-1{
+    width: 60%;
+    margin: 10px;
+  }
+  #img-1{
+    width: 100%;
+  }
+  .text-3{
+    font-size: 14px;
+    margin-bottom: 0.4rem;
+    margin-top: 0.8rem;
+    font-weight: bold;
+  }
+  #t-1{
+    font-size: 12px;
+    font-weight: 300;
+    margin: -4px 0px;
+  }
+  .text-1{
+    margin: 39px 30px;
+    font-family: sans-serif;
+  }
+  .swiper-pagination-next{
+    background-color: #000 !important;
+}
+.swiper-button-next::after{
+  color: #000;
+  
+}
+.swiper-button-prev::after{
+  color: black;
+}

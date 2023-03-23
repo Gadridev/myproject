@@ -1,0 +1,14 @@
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+  }
+  #img-fle{
+    width: 248px;
+    margin: 17px;
+    
+  }
+  #decoration{
+    text-decoration: none;
+  }

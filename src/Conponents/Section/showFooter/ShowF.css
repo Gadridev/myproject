@@ -1,0 +1,33 @@
+.fle-1{
+    background-color: #1c1d1f;
+    color: #ffffff;
+    padding: 40px;
+  }
+  .fle-2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+  .fle-2 ul li{
+    list-style-type: none;
+  }
+  .fle-2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  .fle-4{
+    margin-left: auto;
+    margin-top: 10px;
+  }
+  #btn-te{
+    border: 1px solid white;
+    background-color: #1c1d1f;
+    color: white;
+    text-decoration: none;
+    padding: 10px 32px;
+  }
+  .flex-gr{
+    display: flex;
+    justify-content: space-between;
+  }
