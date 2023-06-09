@@ -3,6 +3,7 @@ import { RiStarSFill } from 'react-icons/ri'
 function Cards(props){
    return(
     <div className="item-1">
+        s
     <img id="img-1" src={props.image} alt="error" />
     <div className="text-cont">
         <h4 className="text-3"> {props.text_1}</h4>

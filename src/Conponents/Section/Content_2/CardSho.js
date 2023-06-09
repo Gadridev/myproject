@@ -14,7 +14,6 @@ function CardShow(){
               {Card}
              </div>
         </>
-
     )
 }
 export default CardShow;
